@@ -2,3 +2,4 @@ streamlit
 pymongo
 langchain
 sentence-transformers
+langchain_community
